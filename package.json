@@ -4,7 +4,7 @@
   "description": "server to serve data to MapMosaic application",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "npx json-server db.json --port 9000"
   },
   "repository": {
     "type": "git",
