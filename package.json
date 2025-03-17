@@ -2,9 +2,9 @@
   "name": "mapmosaic-server",
   "version": "1.0.0",
   "description": "server to serve data to MapMosaic application",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
