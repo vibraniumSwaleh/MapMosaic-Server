@@ -4,7 +4,7 @@
   "description": "server to serve data to MapMosaic application",
   "main": "index.js",
   "scripts": {
-    "start": "npx json-server db.json --port 9000 -s ./"
+    "start": "npx json-server db.json --port 9000"
   },
   "repository": {
     "type": "git",
@@ -23,7 +23,6 @@
   },
   "homepage": "https://github.com/vibraniumSwaleh/MapMosaic-Server#readme",
   "dependencies": {
-    "cors": "^2.8.5",
     "json-server": "^1.0.0-beta.3"
   }
 }
