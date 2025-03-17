@@ -3,7 +3,6 @@ node_modules/
 package-lock.json
 
 # JSON Server data files (optional)
-db.json
 *.log
 
 # Environment variables
